@@ -1,0 +1,3 @@
+function blast(teller) {
+teller++;
+}
